@@ -9,7 +9,7 @@ This repository includes the datasets presented in *Alsudais A. Extending ImageN
 
 ## Datasets 
 ### ImageNet_to_AWN.csv: 
-Each ImageNet synset is presented in a row. The Arabic matches found directly and using hypernyms are in the columns. 
+Each ImageNet synset is presented in a row. The Arabic matches found directly and using hypernyms are in the columns. I used "0" for direct and "[]" for hypernyms when Arabic matches were not found 
 
 ### ImageNet_to_AWN_with_hypernyms_IDs.csv:
 The same results but with the WordNet IDs for hypernyms. Cells with "0" indicate that an Arabic match was not available  
