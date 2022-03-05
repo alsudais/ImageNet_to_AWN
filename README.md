@@ -18,7 +18,6 @@ The same results but with the WordNet IDs for hypernyms. Cells with "0" indicate
 You can download the images from the official  [ImageNet website](http://image-net.org/download)
 
 ## Citation:
-To cite this work:
 Alsudais, A. Extending ImageNet to Arabic using Arabic WordNet. Multimed Tools Appl 81, 8835–8852 (2022). https://doi.org/10.1007/s11042-022-11981-6
 
 ## Contact:
